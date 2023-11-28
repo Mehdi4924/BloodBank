@@ -1,0 +1,9 @@
+com/sf_bloodbank/MainApplication.java
+ com.sf_bloodbank.MainApplication
+ com.sf_bloodbank.MainApplication$1
+com/sf_bloodbank/MainActivity.java
+ com.sf_bloodbank.MainActivity
+com/sf_bloodbank/BuildConfig.java
+ com.sf_bloodbank.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList

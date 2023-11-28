@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SF_BloodBank.iml" filepath="$PROJECT_DIR$/.idea/modules/SF_BloodBank.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SF_BloodBank.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SF_BloodBank.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1998010954/SF_BloodBank.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/1998010954/SF_BloodBank.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1615696970/SF_BloodBank.react-native-community_datetimepicker.iml" filepath="$PROJECT_DIR$/.idea/modules/1615696970/SF_BloodBank.react-native-community_datetimepicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2001758286/SF_BloodBank.react-native-file-viewer.iml" filepath="$PROJECT_DIR$/.idea/modules/2001758286/SF_BloodBank.react-native-file-viewer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/977881698/SF_BloodBank.react-native-fs.iml" filepath="$PROJECT_DIR$/.idea/modules/977881698/SF_BloodBank.react-native-fs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1169293497/SF_BloodBank.react-native-geolocation-service.iml" filepath="$PROJECT_DIR$/.idea/modules/1169293497/SF_BloodBank.react-native-geolocation-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1151189777/SF_BloodBank.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/1151189777/SF_BloodBank.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2144091991/SF_BloodBank.react-native-google-pay.iml" filepath="$PROJECT_DIR$/.idea/modules/-2144091991/SF_BloodBank.react-native-google-pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1894188651/SF_BloodBank.react-native-image-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-1894188651/SF_BloodBank.react-native-image-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1560877854/SF_BloodBank.react-native-maps.iml" filepath="$PROJECT_DIR$/.idea/modules/-1560877854/SF_BloodBank.react-native-maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1156818118/SF_BloodBank.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1156818118/SF_BloodBank.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/283876306/SF_BloodBank.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/283876306/SF_BloodBank.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-268921243/SF_BloodBank.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-268921243/SF_BloodBank.react-native-vector-icons.iml" />
+    </modules>
+  </component>
+</project>

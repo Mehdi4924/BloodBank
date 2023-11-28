@@ -1,0 +1,7 @@
+#Mon Jan 31 17:38:15 PKT 2022
+base.1=/home/nku/Documents/MUbashar/SF_BloodBank/android/app/build/intermediates/dex/release/mergeDexRelease/classes2.dex
+path.1=classes2.dex
+base.0=/home/nku/Documents/MUbashar/SF_BloodBank/android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

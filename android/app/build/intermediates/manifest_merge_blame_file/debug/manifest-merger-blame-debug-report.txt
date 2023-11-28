@@ -1,0 +1,158 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.sf_bloodbank"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="30" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->/home/nku/Documents/MUbashar/SF_BloodBank/android/app/src/debug/AndroidManifest.xml:5:5-77
+11-->/home/nku/Documents/MUbashar/SF_BloodBank/android/app/src/debug/AndroidManifest.xml:5:22-75
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/home/nku/Documents/MUbashar/SF_BloodBank/android/app/src/main/AndroidManifest.xml:4:5-67
+12-->/home/nku/Documents/MUbashar/SF_BloodBank/android/app/src/main/AndroidManifest.xml:4:22-64
+13    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+13-->/home/nku/Documents/MUbashar/SF_BloodBank/android/app/src/main/AndroidManifest.xml:5:5-80
+13-->/home/nku/Documents/MUbashar/SF_BloodBank/android/app/src/main/AndroidManifest.xml:5:22-78
+14    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+14-->/home/nku/Documents/MUbashar/SF_BloodBank/android/app/src/main/AndroidManifest.xml:6:1-75
+14-->/home/nku/Documents/MUbashar/SF_BloodBank/android/app/src/main/AndroidManifest.xml:6:18-72
+15    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+15-->[com.facebook.flipper:flipper:0.99.0] /home/nku/.gradle/caches/transforms-3/2f5725507f1929c6ddf8255f0bef77bd/transformed/jetified-flipper-0.99.0/AndroidManifest.xml:16:5-76
+15-->[com.facebook.flipper:flipper:0.99.0] /home/nku/.gradle/caches/transforms-3/2f5725507f1929c6ddf8255f0bef77bd/transformed/jetified-flipper-0.99.0/AndroidManifest.xml:16:22-73
+16    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /> <!-- Include required permissions for Google Maps API to run. -->
+16-->[:react-native-fs] /home/nku/Documents/MUbashar/SF_BloodBank/node_modules/react-native-fs/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:5-81
+16-->[:react-native-fs] /home/nku/Documents/MUbashar/SF_BloodBank/node_modules/react-native-fs/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:9:22-78
+17    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+17-->[com.google.android.gms:play-services-maps:17.0.0] /home/nku/.gradle/caches/transforms-3/6821bfc07eef432b0f26a0acd5357f0f/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+17-->[com.google.android.gms:play-services-maps:17.0.0] /home/nku/.gradle/caches/transforms-3/6821bfc07eef432b0f26a0acd5357f0f/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:22-76
+18
+19    <uses-feature
+19-->[com.google.android.gms:play-services-maps:17.0.0] /home/nku/.gradle/caches/transforms-3/6821bfc07eef432b0f26a0acd5357f0f/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+20        android:glEsVersion="0x00020000"
+20-->[com.google.android.gms:play-services-maps:17.0.0] /home/nku/.gradle/caches/transforms-3/6821bfc07eef432b0f26a0acd5357f0f/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+21        android:required="true" />
+21-->[com.google.android.gms:play-services-maps:17.0.0] /home/nku/.gradle/caches/transforms-3/6821bfc07eef432b0f26a0acd5357f0f/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+22
+23    <application
+23-->/home/nku/Documents/MUbashar/SF_BloodBank/android/app/src/main/AndroidManifest.xml:8:5-36:19
+24        android:name="com.sf_bloodbank.MainApplication"
+24-->/home/nku/Documents/MUbashar/SF_BloodBank/android/app/src/main/AndroidManifest.xml:9:7-38
+25        android:allowBackup="false"
+25-->/home/nku/Documents/MUbashar/SF_BloodBank/android/app/src/main/AndroidManifest.xml:13:7-34
+26        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+26-->[androidx.core:core:1.6.0] /home/nku/.gradle/caches/transforms-3/5efa136d6b7a2c594211658eacead3c1/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+27        android:debuggable="true"
+28        android:icon="@mipmap/ic_launcher"
+28-->/home/nku/Documents/MUbashar/SF_BloodBank/android/app/src/main/AndroidManifest.xml:11:7-41
+29        android:label="@string/app_name"
+29-->/home/nku/Documents/MUbashar/SF_BloodBank/android/app/src/main/AndroidManifest.xml:10:7-39
+30        android:roundIcon="@mipmap/ic_launcher_round"
+30-->/home/nku/Documents/MUbashar/SF_BloodBank/android/app/src/main/AndroidManifest.xml:12:7-52
+31        android:theme="@style/AppTheme"
+31-->/home/nku/Documents/MUbashar/SF_BloodBank/android/app/src/main/AndroidManifest.xml:14:7-38
+32        android:usesCleartextTraffic="true" >
+32-->/home/nku/Documents/MUbashar/SF_BloodBank/android/app/src/debug/AndroidManifest.xml:8:9-44
+33        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+33-->/home/nku/Documents/MUbashar/SF_BloodBank/android/app/src/debug/AndroidManifest.xml:11:9-86
+33-->/home/nku/Documents/MUbashar/SF_BloodBank/android/app/src/debug/AndroidManifest.xml:11:19-83
+34
+35        <meta-data
+35-->/home/nku/Documents/MUbashar/SF_BloodBank/android/app/src/main/AndroidManifest.xml:15:11-17:23
+36            android:name="com.google.android.gms.wallet.api.enabled"
+36-->/home/nku/Documents/MUbashar/SF_BloodBank/android/app/src/main/AndroidManifest.xml:16:1-57
+37            android:value="true" />
+37-->/home/nku/Documents/MUbashar/SF_BloodBank/android/app/src/main/AndroidManifest.xml:17:1-21
+38        <meta-data
+38-->/home/nku/Documents/MUbashar/SF_BloodBank/android/app/src/main/AndroidManifest.xml:19:9-21:63
+39            android:name="com.google.android.geo.API_KEY"
+39-->/home/nku/Documents/MUbashar/SF_BloodBank/android/app/src/main/AndroidManifest.xml:20:6-51
+40            android:value="AIzaSyAizf1uimNFXUerqmfomTFsJqGmac4_GPM" /> <!-- You will also only need to add this uses-library tag -->
+40-->/home/nku/Documents/MUbashar/SF_BloodBank/android/app/src/main/AndroidManifest.xml:21:6-61
+41        <uses-library
+41-->/home/nku/Documents/MUbashar/SF_BloodBank/android/app/src/main/AndroidManifest.xml:24:4-82
+42            android:name="org.apache.http.legacy"
+42-->/home/nku/Documents/MUbashar/SF_BloodBank/android/app/src/main/AndroidManifest.xml:24:18-55
+43            android:required="false" />
+43-->/home/nku/Documents/MUbashar/SF_BloodBank/android/app/src/main/AndroidManifest.xml:24:56-80
+44
+45        <activity
+45-->/home/nku/Documents/MUbashar/SF_BloodBank/android/app/src/main/AndroidManifest.xml:25:7-35:18
+46            android:name="com.sf_bloodbank.MainActivity"
+46-->/home/nku/Documents/MUbashar/SF_BloodBank/android/app/src/main/AndroidManifest.xml:26:9-37
+47            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+47-->/home/nku/Documents/MUbashar/SF_BloodBank/android/app/src/main/AndroidManifest.xml:28:9-86
+48            android:label="@string/app_name"
+48-->/home/nku/Documents/MUbashar/SF_BloodBank/android/app/src/main/AndroidManifest.xml:27:9-41
+49            android:launchMode="singleTask"
+49-->/home/nku/Documents/MUbashar/SF_BloodBank/android/app/src/main/AndroidManifest.xml:29:9-40
+50            android:windowSoftInputMode="adjustResize" >
+50-->/home/nku/Documents/MUbashar/SF_BloodBank/android/app/src/main/AndroidManifest.xml:30:9-51
+51            <intent-filter>
+51-->/home/nku/Documents/MUbashar/SF_BloodBank/android/app/src/main/AndroidManifest.xml:31:9-34:25
+52                <action android:name="android.intent.action.MAIN" />
+52-->/home/nku/Documents/MUbashar/SF_BloodBank/android/app/src/main/AndroidManifest.xml:32:13-65
+52-->/home/nku/Documents/MUbashar/SF_BloodBank/android/app/src/main/AndroidManifest.xml:32:21-62
+53
+54                <category android:name="android.intent.category.LAUNCHER" />
+54-->/home/nku/Documents/MUbashar/SF_BloodBank/android/app/src/main/AndroidManifest.xml:33:13-73
+54-->/home/nku/Documents/MUbashar/SF_BloodBank/android/app/src/main/AndroidManifest.xml:33:23-70
+55            </intent-filter>
+56        </activity>
+57
+58        <provider
+58-->[:react-native-file-viewer] /home/nku/Documents/MUbashar/SF_BloodBank/node_modules/react-native-file-viewer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
+59            android:name="com.vinzscam.reactnativefileviewer.FileProvider"
+59-->[:react-native-file-viewer] /home/nku/Documents/MUbashar/SF_BloodBank/node_modules/react-native-file-viewer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-75
+60            android:authorities="com.sf_bloodbank.provider"
+60-->[:react-native-file-viewer] /home/nku/Documents/MUbashar/SF_BloodBank/node_modules/react-native-file-viewer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-60
+61            android:exported="false"
+61-->[:react-native-file-viewer] /home/nku/Documents/MUbashar/SF_BloodBank/node_modules/react-native-file-viewer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
+62            android:grantUriPermissions="true" >
+62-->[:react-native-file-viewer] /home/nku/Documents/MUbashar/SF_BloodBank/node_modules/react-native-file-viewer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
+63            <meta-data
+63-->[:react-native-file-viewer] /home/nku/Documents/MUbashar/SF_BloodBank/node_modules/react-native-file-viewer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-17:70
+64                android:name="android.support.FILE_PROVIDER_PATHS"
+64-->[:react-native-file-viewer] /home/nku/Documents/MUbashar/SF_BloodBank/node_modules/react-native-file-viewer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:17-67
+65                android:resource="@xml/file_viewer_provider_paths" />
+65-->[:react-native-file-viewer] /home/nku/Documents/MUbashar/SF_BloodBank/node_modules/react-native-file-viewer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:17-67
+66        </provider>
+67        <provider
+67-->[:react-native-image-picker] /home/nku/Documents/MUbashar/SF_BloodBank/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:10:9-18:20
+68            android:name="com.imagepicker.ImagePickerProvider"
+68-->[:react-native-image-picker] /home/nku/Documents/MUbashar/SF_BloodBank/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-63
+69            android:authorities="com.sf_bloodbank.imagepickerprovider"
+69-->[:react-native-image-picker] /home/nku/Documents/MUbashar/SF_BloodBank/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-71
+70            android:exported="false"
+70-->[:react-native-image-picker] /home/nku/Documents/MUbashar/SF_BloodBank/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-37
+71            android:grantUriPermissions="true" >
+71-->[:react-native-image-picker] /home/nku/Documents/MUbashar/SF_BloodBank/node_modules/react-native-image-picker/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-47
+72            <meta-data
+72-->[:react-native-file-viewer] /home/nku/Documents/MUbashar/SF_BloodBank/node_modules/react-native-file-viewer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:15:13-17:70
+73                android:name="android.support.FILE_PROVIDER_PATHS"
+73-->[:react-native-file-viewer] /home/nku/Documents/MUbashar/SF_BloodBank/node_modules/react-native-file-viewer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:16:17-67
+74                android:resource="@xml/imagepicker_provider_paths" />
+74-->[:react-native-file-viewer] /home/nku/Documents/MUbashar/SF_BloodBank/node_modules/react-native-file-viewer/android/build/intermediates/merged_manifest/debug/AndroidManifest.xml:17:17-67
+75        </provider>
+76
+77        <activity
+77-->[com.google.android.gms:play-services-base:17.2.1] /home/nku/.gradle/caches/transforms-3/e4c12c0fd148f81f2d365005a63ca53c/transformed/jetified-play-services-base-17.2.1/AndroidManifest.xml:23:9-26:75
+78            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+78-->[com.google.android.gms:play-services-base:17.2.1] /home/nku/.gradle/caches/transforms-3/e4c12c0fd148f81f2d365005a63ca53c/transformed/jetified-play-services-base-17.2.1/AndroidManifest.xml:24:13-79
+79            android:exported="false"
+79-->[com.google.android.gms:play-services-base:17.2.1] /home/nku/.gradle/caches/transforms-3/e4c12c0fd148f81f2d365005a63ca53c/transformed/jetified-play-services-base-17.2.1/AndroidManifest.xml:25:13-37
+80            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+80-->[com.google.android.gms:play-services-base:17.2.1] /home/nku/.gradle/caches/transforms-3/e4c12c0fd148f81f2d365005a63ca53c/transformed/jetified-play-services-base-17.2.1/AndroidManifest.xml:26:13-72
+81
+82        <meta-data
+82-->[com.google.android.gms:play-services-basement:17.2.1] /home/nku/.gradle/caches/transforms-3/51419d31498079c1036c51859b5e4d7d/transformed/jetified-play-services-basement-17.2.1/AndroidManifest.xml:23:9-25:69
+83            android:name="com.google.android.gms.version"
+83-->[com.google.android.gms:play-services-basement:17.2.1] /home/nku/.gradle/caches/transforms-3/51419d31498079c1036c51859b5e4d7d/transformed/jetified-play-services-basement-17.2.1/AndroidManifest.xml:24:13-58
+84            android:value="@integer/google_play_services_version" />
+84-->[com.google.android.gms:play-services-basement:17.2.1] /home/nku/.gradle/caches/transforms-3/51419d31498079c1036c51859b5e4d7d/transformed/jetified-play-services-basement-17.2.1/AndroidManifest.xml:25:13-66
+85    </application>
+86
+87</manifest>
